@@ -12,7 +12,7 @@
 ---
 
 > **Fictitious Company Blueprint and Comprehensive Customization Guide**  
-> *A complete end-to-end implementation blueprint for deploying SAP ERP within Apex Manufacturing Solutions Ltd.*
+> *A complete end-to-end implementation blueprint for deploying SAP ERP within Delta Manufacturing Solutions Ltd.*
 
 **Project Duration:** 6 Months | **Submission Date:** April 2026
 
@@ -42,12 +42,12 @@
 
 ### 1.1 Project Overview
 
-This project document presents a comprehensive implementation blueprint for deploying SAP ERP (Enterprise Resource Planning) system within Apex Manufacturing Solutions Ltd., a fictitious manufacturing company. The project covers the complete setup and configuration of enterprise structure, functional modules, and integration points necessary for seamless business operations.
+This project document presents a comprehensive implementation blueprint for deploying SAP ERP (Enterprise Resource Planning) system within Delta Manufacturing Solutions Ltd., a fictitious manufacturing company. The project covers the complete setup and configuration of enterprise structure, functional modules, and integration points necessary for seamless business operations.
 
 | Aspect | Details |
 |--------|---------|
 | **Project Name** | SAP ERP Implementation - Company Blueprint |
-| **Company** | Apex Manufacturing Solutions Ltd. |
+| **Company** | Delta Manufacturing Solutions Ltd. |
 | **Course** | SAP ERP Training Project |
 | **Duration** | 6 Months |
 | **Submission Date** | April 2026 |
@@ -114,7 +114,7 @@ IMPLEMENTATION PHASES
 
 | Field | Details | Reference |
 |----------|-------------|--------------|
-| **Company Name** | **Apex Manufacturing Solutions Ltd.** | Legal Entity |
+| **Company Name** | **Delta Manufacturing Solutions Ltd.** | Legal Entity |
 | **Industry** | Engineering & Manufacturing | NIC Code: 29100 |
 | **Headquarter** | Mumbai, Maharashtra, India | 400001 |
 | **Regional Offices** | Delhi, Bangalore, Chennai, Kolkata | 4 Locations |
@@ -123,11 +123,11 @@ IMPLEMENTATION PHASES
 | **Fiscal Year** | April 1 - March 31 | Indian FY |
 | **GSTIN** | 27AABCU9603R1ZX | Maharashtra GST |
 | **PAN** | AABCU9603R | Income Tax |
-| **Email** | info@apexmfg.com | Official |
+| **Email** | info@Deltamfg.com | Official |
 
 ### 2.2 Business Overview
 
-Apex Manufacturing Solutions Ltd. is a leading mid-sized engineering and manufacturing company headquartered in Mumbai, India. The company specializes in:
+Delta Manufacturing Solutions Ltd. is a leading mid-sized engineering and manufacturing company headquartered in Mumbai, India. The company specializes in:
 
 | Product Line | Category | Revenue % |
 |----------------|--------------|--------------|
@@ -165,7 +165,7 @@ Apex Manufacturing Solutions Ltd. is a leading mid-sized engineering and manufac
 ### 3.1 Enterprise Structure Hierarchy
 
 ```
-APEX MANUFACTURING SOLUTIONS LTD.
+Delta MANUFACTURING SOLUTIONS LTD.
         (Client 100)
 ================================================================================
 
@@ -187,8 +187,8 @@ APEX MANUFACTURING SOLUTIONS LTD.
 
 | Parameter | Value | Transaction | Notes |
 |-----------|-------|-------------|-------|
-| Client | 100 | SCC4 | Apex Manufacturing Solutions |
-| Name | Apex Manufacturing Solutions Ltd. | - | Legal Entity Name |
+| Client | 100 | SCC4 | Delta Manufacturing Solutions |
+| Name | Delta Manufacturing Solutions Ltd. | - | Legal Entity Name |
 | City | Mumbai | - | Country: India |
 | Currency | INR | - | Indian Rupees |
 | Language | EN | - | English |
@@ -197,11 +197,11 @@ APEX MANUFACTURING SOLUTIONS LTD.
 
 | Code | Name | City | Currency | Fiscal Variant |
 |------|------|------|----------|---------------|
-| 1000 | Apex Manufacturing HQ | Mumbai | INR | 4C (Apr-Mar) |
-| 1001 | Apex Delhi Unit | Delhi | INR | 4C (Apr-Mar) |
-| 1002 | Apex Bangalore Unit | Bangalore | INR | 4C (Apr-Mar) |
-| 1003 | Apex Chennai Unit | Chennai | INR | 4C (Apr-Mar) |
-| 1004 | Apex Kolkata Unit | Kolkata | INR | 4C (Apr-Mar) |
+| 1000 | Delta Manufacturing HQ | Mumbai | INR | 4C (Apr-Mar) |
+| 1001 | Delta Delhi Unit | Delhi | INR | 4C (Apr-Mar) |
+| 1002 | Delta Bangalore Unit | Bangalore | INR | 4C (Apr-Mar) |
+| 1003 | Delta Chennai Unit | Chennai | INR | 4C (Apr-Mar) |
+| 1004 | Delta Kolkata Unit | Kolkata | INR | 4C (Apr-Mar) |
 
 ### 3.4 Plants
 
@@ -286,7 +286,7 @@ The Financial Accounting (FI) module is the core accounting component of SAP ERP
 
 | Parameter | Value | Transaction |
 |-----------|-------|------------|
-| Name | Apex Manufacturing HQ | - |
+| Name | Delta Manufacturing HQ | - |
 | City | Mumbai | - |
 | Country | India (IN) | - |
 | Currency | INR | - |
@@ -1248,7 +1248,7 @@ DELIVERY PROCESS FLOW
 
 ### 14.1 Project Summary
 
-This project successfully established a comprehensive SAP ERP blueprint for Apex Manufacturing Solutions Ltd. covering:
+This project successfully established a comprehensive SAP ERP blueprint for Delta Manufacturing Solutions Ltd. covering:
 
 | Module | Key Accomplishments |
 |--------|---------------------|
@@ -1334,6 +1334,6 @@ This project successfully established a comprehensive SAP ERP blueprint for Apex
 
 ---
 
-**2026 SAP ERP Implementation Project - Apex Manufacturing Solutions Ltd.**
+**2026 SAP ERP Implementation Project - Delta Manufacturing Solutions Ltd.**
 
 </div>
